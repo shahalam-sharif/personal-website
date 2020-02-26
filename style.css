@@ -59,24 +59,28 @@ h2 {
     background-image: url(./images/header-bg.png);
     background-repeat: no-repeat;
     min-height: 500px;
+    background-size: cover;
 }
 
 .bio-sec {
     background-image: url(./images/biography-bg.png);
     background-repeat: no-repeat;
     min-height: 500px;
+    background-size: cover;
 }
 
 .work-sec {
     background-image: url(./images/latest-work-bg.png);
     background-repeat: no-repeat;
     min-height: 500px;
+    background-size: cover;
 }
 
 .test-sec {
     background-image: url(./images/footer-bg.png);
     background-repeat: no-repeat;
     min-height: 500px;
+    background-size: cover;
 }
 
 section {
@@ -131,6 +135,7 @@ section {
     text-decoration: none;
     color: white;
     font-family: 'Comfortaa', sans-serif;
+    font-size: 25px;
 
 }
 
